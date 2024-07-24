@@ -42,6 +42,7 @@ build/Release
 node_modules/
 jspm_packages/
 
+
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
@@ -118,3 +119,22 @@ dist
 .pnp.*
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
+saad/app.js
+saad/constants.js
+saad/index.js
+saad/controllers/user.controller.js
+saad/db/index.js
+saad/middlewares/auth.middleware.js
+saad/middlewares/multer.middleware.js
+saad/models/comment.model.js
+saad/models/like.model.js
+saad/models/playlist.model.js
+saad/models/subscription.model.js
+saad/models/tweet.model.js
+saad/models/user.model.js
+saad/models/video.model.js
+saad/routes/user.routes.js
+saad/utils/apiError.js
+saad/utils/apiResponse.js
+saad/utils/asyncHandler.js
+saad/utils/cloudinary.js
