@@ -7,9 +7,7 @@
     "start": "nodemon -r dotenv/config src/index.js "
   },
   "keywords": [
-    "javascript",
-    "backend",
-    "chai"
+    "javascript"
   ],
   "author": "saad",
   "license": "ISC",
